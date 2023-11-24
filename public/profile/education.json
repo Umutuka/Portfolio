@@ -1,0 +1,25 @@
+{
+    "education":[
+        {
+            "title": "Sep 2018 - Sep 2022",
+            "cardTitle": "BSc Computer Science",
+            "cardSubtitle":"University of Westminster",
+            "cardDetailedText": "1st Class",
+            "icon" : {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "Sep 2016 - Sep 2018",
+            "cardTitle": "A-Levels",
+            "cardSubtitle":"City of London Academy (Southwark)",
+            "cardDetailedText": "Mathematics (& Further), Economics, and EPQ "
+        },
+        {
+            "title": "July 2016",
+            "cardTitle": "GCSE",
+            "cardSubtitle":"Harris Academy Peckham",
+            "cardDetailedText": "11 GCSEs at Grades A* - C (Includes Turkish GCSE at Grade A) + 1 BTEC L2 - ECDL"
+        }
+    ]
+}
