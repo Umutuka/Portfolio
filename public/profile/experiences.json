@@ -1,65 +1,70 @@
 {
-    "experiences": [
-        {
-            "title": "Junior Front-End Developer",
-            "subtitle": "Analiz Systems Ozgu Ltd.",
-            "workType": "Volunteer",
-            "workDescription": [
-                "Created various email designs using Html and Inline CSS, through given design preferences and colour choices.",
-                "Gaining experience using react and JavaScript in a work environment, along with developing solutions/designs for tasks given through the Workspace in Click Up and sending Pull Requests through Azure DevOps.",
-                "Able to work alongside backend developers, to gain information about which functions is used to get certain information from the database, and then fetch them accordingly.",
-                "Able to correctly identify errors, by looking at what is being returned in the network, and if the data is correctly being set to certain values using the console (from time to time, I also use react dev tools)."
-            ],
-            "dateText": "Aug 2023 – Current"
-        },
-        {
-            "title": "Gap Year",
-            "subtitle": "Mental Health Recovery",
-            "workType": "Break",
-            "workDescription": [
-                "After undergoing an emergency surgery in January 2022, which happened during my last year of University , I recognized the importance of prioritizing my mental and emotional recovery. Understanding the significance of taking time for self-care, I made the decision to embark on a gap year to fully recuperate and regain a sense of balance in my life.",
-                "During this gap year, I dedicated myself to a holistic healing process, focusing on both physical and mental well-being. I engaged in various activities and practices that promoted relaxation, personal growth, and self-reflection.",
-                "Ultimately, the gap year served as a transformative period of healing, growth, and self-care. It provided the necessary space and time to recover from the physical and emotional impact of the surgery, enabling me to return to my professional pursuits with renewed focus, energy, and mental well-being."
-            ],
-            "dateText": "Aug 2022 – Aug 2023"
-        },
-        {
-            "title": "Retail Cashier",
-            "subtitle": "M & S Dry Cleaners",
-            "workType": "Volunteer",
-            "workDescription": [
-                "Managed cash transactions and operated the cash register with accuracy and efficiency.",
-                "Assisted customers in dropping off and picking up their garments, providing excellent customer service.",
-                "Maintained a clean and organized cashier area, ensuring smooth customer flow.",
-                "Addressed customer inquiries, resolved issues, and provided information on services."
-            ],
-            "dateText": "Sep 2021 – Dec 2021"
-        },
-        {
-            "title": "Computer Science Tutoring",
-            "subtitle": "Helping Fellow Students",
-            "workType": "Tutoring",
-            "workDescription": [
-                "Tutoring in varying subtopics such as Python, JavaScript, SQL and many more.",
-                "Adapting my teaching skills to best suit the students’ needs",
-                "Keeping up to date on any changes to the curriculum to ensure correct content is taught.",
-                "Offering flexibility to student demand and requirements",
-                "Arranging test-based scenarios to ensure learning has been consolidated."
-            ],
-            "dateText": "Jan 2020 – May 2020"
-        },
-        {
-            "title": "Work Shadowing Santander",
-            "subtitle": "Santander",
-            "workType": "Shadowing",
-            "workDescription": [
-                "Observed how the employees handled their job.",
-                "Delivered excellent customer service in a professional and efficient manner.",
-                "Communicated with customers via phone and face to face.",
-                "Educated customers on any questions they had. Clarified any issue customers had and explained the best solution.",
-                "Keeping and maintaining records using organizational and management skills and delivered before managers expectation."
-            ],
-            "dateText": "July 2017"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Front-End Developer",
+      "subtitle": "Analiz Systems Ozgu Ltd.",
+      "workType": "",
+      "workDescription": [
+        "Designed and developed responsive web applications for both B2B and B2A platforms, ensuring high usability, accessibility, and performance.",
+        "Built and maintained scalable CRUD-based interfaces using React.js, integrating seamlessly with RESTful APIs and backend services.",
+        "Utilized a wide range of UI libraries, including Material UI (MUI) and many others (such as Bootstrap, Tailwind, and custom component libraries) to accelerate development and ensure consistent, modern design systems.",
+        "Created modular, reusable components with attention to maintainability and cross-browser compatibility.",
+        "Collaborated cross-functionally with back-end developers and QA teams to optimize data flow, debug network issues, and deliver production-ready features.",
+        "Designed HTML email templates using semantic markup and inline CSS, customized to match branding guidelines.",
+        "Applied React DevTools, browser debugging tools, and Git workflows via Azure DevOps to maintain high-quality code through version control and pull request reviews.",
+        "Contributed to Agile sprints through ClickUp, participating in daily stand-ups, sprint planning, and task estimation.",
+        "Developed proficiency in React and JavaScript within a professional setting, contributing to task solutions and designs through the Click Up Workspace and submitting Pull Requests via Azure DevOps."
+      ],
+      "dateText": "Aug 2023 – Current"
+    },
+    {
+      "title": "Gap Year",
+      "subtitle": "Mental Health Recovery",
+      "workType": "Break",
+      "workDescription": [
+        "After undergoing an emergency surgery in January 2022, which happened during my last year of University , I recognized the importance of prioritizing my mental and emotional recovery. Understanding the significance of taking time for self-care, I made the decision to embark on a gap year to fully recuperate and regain a sense of balance in my life.",
+        "During this gap year, I dedicated myself to a holistic healing process, focusing on both physical and mental well-being. I engaged in various activities and practices that promoted relaxation, personal growth, and self-reflection.",
+        "Ultimately, the gap year served as a transformative period of healing, growth, and self-care. It provided the necessary space and time to recover from the physical and emotional impact of the surgery, enabling me to return to my professional pursuits with renewed focus, energy, and mental well-being."
+      ],
+      "dateText": "Aug 2022 – Aug 2023"
+    },
+    {
+      "title": "Retail Cashier",
+      "subtitle": "M & S Dry Cleaners",
+      "workType": "",
+      "workDescription": [
+        "Managed cash transactions and operated the cash register with accuracy and efficiency.",
+        "Assisted customers in dropping off and picking up their garments, providing excellent customer service.",
+        "Maintained a clean and organized cashier area, ensuring smooth customer flow.",
+        "Addressed customer inquiries, resolved issues, and provided information on services."
+      ],
+      "dateText": "Sep 2021 – Dec 2021"
+    },
+    {
+      "title": "Computer Science Tutoring",
+      "subtitle": "Helping Fellow Students",
+      "workType": "",
+      "workDescription": [
+        "Tutoring in varying subtopics such as Python, JavaScript, SQL and many more.",
+        "Adapting my teaching skills to best suit the students’ needs",
+        "Keeping up to date on any changes to the curriculum to ensure correct content is taught.",
+        "Offering flexibility to student demand and requirements",
+        "Arranging test-based scenarios to ensure learning has been consolidated."
+      ],
+      "dateText": "Jan 2020 – May 2020"
+    },
+    {
+      "title": "Work Shadowing Santander",
+      "subtitle": "Santander",
+      "workType": "Shadowing",
+      "workDescription": [
+        "Observed how the employees handled their job.",
+        "Delivered excellent customer service in a professional and efficient manner.",
+        "Communicated with customers via phone and face to face.",
+        "Educated customers on any questions they had. Clarified any issue customers had and explained the best solution.",
+        "Keeping and maintaining records using organizational and management skills and delivered before managers expectation."
+      ],
+      "dateText": "July 2017"
+    }
+  ]
 }

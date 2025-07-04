@@ -1,124 +1,96 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Portfolio",
+      "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "links": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": ""
-                },
-                {
-                    "text": "Live",
-                    "href": ""
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
+          "text": "GitHub",
+          "href": ""
         },
         {
-            "image" : "https://drive.google.com/uc?export=view&id=1oAAcsqP0ShSNzxF7wF68Mjr7hiMOnLcO",
-            "title": "PokeDiscovery- Pokemon Database Website",
-            "bodyText": "- PokeDiscovery currently includes data on pokemon using a public RESTful Api.\n - Abilities, Items, Stat Comparison, and a brief description of every single region on my main page. ",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Umutuka/PokeDiscovery"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://pokediscovery.netlify.app/"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Javascript",
-                "TailwindCss",
-                "PokeApi",
-                "Node.js"
-            ]
-        },
-        {
-            "image" : "images/projects/UmutukasSpyingWeatherApp.jpeg",
-            "title": "Umutukas Spying Weather App",
-            "bodyText": "- App shows your current locations Name, Country Code, current weather (eg. light rain) , Temperature , Feels Like, Wind , Humidity and pressure.\n - Your current locations 3 hourly & Daily forecast.            ",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/Umutuka/Weather-App"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://umutuka.github.io/Weather-App/"
-                }
-            ],
-            "tags" : [
-                "HTML5",
-                "Bootstrap",
-                "Javascript",
-                "React.JS",
-                "Vite",
-                "OpenWeatherMap Api"
-            ]
-        },
-        {
-            "image" : "images/projects/triplecbw.JPG",
-            "title": "The Triple CBW",
-            "bodyText": "- A unity game for people who love Chess, Solitaire TypeWriter. \n - Created a chess AI which uses past masters chess games, in order to find the next optimal move.",
-            "links": [
-                {
-                    "text": "Video",
-                    "href": "https://www.youtube.com/watch?v=lNkhc59Rw64"
-                },
-                {
-                    "text": "Game/Code",
-                    "href": "https://drive.google.com/file/d/1hkpu3y3lL4tvYbrakdWZRHm53_I5VaqR/view?usp=sharing"
-                }
-            ],
-            "tags" : [
-                "C#",
-                "Unity",
-                "AI"
-            ]
-        },
-        {
-            "image" : "images/projects/crowhawk.JPG",
-            "title": "The Abandoned Crowhawk",
-            "bodyText": "- An Game created from unreal engine using C++ and mainly Unity integrated wireframes.\n - Goal is to find 6 notes, leading to a key, and than escaping from the village.",
-            "links": [
-                {
-                    "text": "Video",
-                    "href": "https://www.youtube.com/watch?v=J9RCYdaw80M"
-                },
-                {
-                    "text": "Game/Code",
-                    "href": "https://drive.google.com/file/d/1hXuu1IjEWZmo7ymu0KY36d9nXwh5YqmQ/view?usp=sharing"
-                }
-            ],
-            "tags" : [
-                "C++",
-                "Unreal"
-            ]
-        },
-        {
-            "image" : "images/projects/email_design.JPG",
-            "title": "HTML Design Templates - Email",
-            "bodyText": "- Some Email design templates created during my Volunteer work for various companies.\n Done using Html and Css",
-            "links": [
-                {
-                    "text": "Github",
-                    "href": "https://github.com/Umutuka/Email-Templates"
-                }
-            ],
-            "tags" : [
-                "HTML",
-                "CSS"
-            ]
+          "text": "Live",
+          "href": ""
         }
-
-    ]
+      ],
+      "tags": ["React", "Portfolio", "JavaScript"]
+    },
+    {
+      "image": "https://drive.google.com/thumbnail?id=1oAAcsqP0ShSNzxF7wF68Mjr7hiMOnLcO",
+      "title": "PokeDiscovery - Pokemon Database Website",
+      "bodyText": "- Built a web application that displays Pokémon stats, abilities, and item info using PokeAPI.\n - Features include abilities, items, stat comparison, and descriptions of every region.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Umutuka/PokeDiscovery"
+        },
+        {
+          "text": "Live",
+          "href": "https://pokediscovery.netlify.app/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "Tailwind CSS", "PokeAPI", "HTML5"]
+    },
+    {
+      "image": "images/projects/UmutukasSpyingWeatherApp.jpeg",
+      "title": "Umutukas Spying Weather App",
+      "bodyText": "- Weather tracking app displaying location-based weather data such as temperature, humidity, and pressure.\n - Shows current location's name, country code, current weather conditions, and 3-hourly & daily forecasts.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/Umutuka/Weather-App"
+        },
+        {
+          "text": "Live",
+          "href": "https://umutuka.github.io/Weather-App/"
+        }
+      ],
+      "tags": ["React", "Bootstrap", "Vite", "OpenWeatherMap API", "ESLint", "JavaScript"]
+    },
+    {
+      "image": "images/projects/triplecbw.JPG",
+      "title": "The Triple CBW (Final Year Project)",
+      "bodyText": "- Developed a game combining Chess, Solitaire, and a Typewriter tool to study the impact of casual gaming on anxiety and stress.\n - Implemented Chess AI using data from grandmaster games to find optimal moves.",
+      "links": [
+        {
+          "text": "Video",
+          "href": "https://www.youtube.com/watch?v=lNkhc59Rw64"
+        },
+        {
+          "text": "Game/Code",
+          "href": "https://drive.google.com/file/d/1hkpu3y3lL4tvYbrakdWZRHm53_I5VaqR/view?usp=sharing"
+        }
+      ],
+      "tags": ["Unity", "C#", "Game AI"]
+    },
+    {
+      "image": "images/projects/crowhawk.JPG",
+      "title": "The Abandoned Crowhawk",
+      "bodyText": "- A first-person exploration game developed in Unreal Engine using C++ and Unity-based wireframing.\n - Demonstrated understanding of Game Engine Architecture and level design.\n - Goal is to find 6 notes, leading to a key, and then escaping from the village.",
+      "links": [
+        {
+          "text": "Video",
+          "href": "https://www.youtube.com/watch?v=J9RCYdaw80M"
+        },
+        {
+          "text": "Game/Code",
+          "href": "https://drive.google.com/file/d/1hXuu1IjEWZmo7ymu0KY36d9nXwh5YqmQ/view?usp=sharing"
+        }
+      ],
+      "tags": ["Unreal Engine", "C++", "Blender"]
+    },
+    {
+      "image": "images/projects/email_design.JPG",
+      "title": "HTML Design Templates - Email",
+      "bodyText": "- Some Email design templates created during my work experience for various companies.\n Completed using HTML and CSS",
+      "links": [
+        {
+          "text": "Github",
+          "href": "https://github.com/Umutuka/Email-Templates"
+        }
+      ],
+      "tags": ["HTML", "CSS"]
+    }
+  ]
 }
